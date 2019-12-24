@@ -17,7 +17,7 @@
 LokuMn</a>
 </div>
  <span class="w3-span w3-white w3-text-black"></span>
- <script>w3IncludeHTML();</script> 
+
 
   <!-- Table --> 
   <table class="table"> 
