@@ -1,5 +1,6 @@
 <!DOCTYPE html> <html> <head>
-<meta name="google-site-verification" content="BpBKXVux4o3mNE8lWhzWNXpoLLVos9eyulf_GAW_aoc" /><script src="http://www.w3schools.com/lib/w3data.js"></script><title>www_kolumnin_com_google_tags</title> <link rel="stylesheet" rel="home" href="http://www.w3schools.com/lib/w3.css"> 
+<meta name="google-site-verification" content="BpBKXVux4o3mNE8lWhzWNXpoLLVos9eyulf_GAW_aoc" />
+ <link rel="stylesheet" rel="home" href="http://www.w3schools.com/lib/w3.css"> 
  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"> 
  <!-- Optional Bootstrap theme --> 
  <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css"> 
