@@ -1,13 +1,4 @@
-<!DOCTYPE html> <html> <head>
 
- <link rel="stylesheet" rel="home" href="http://www.w3schools.com/lib/w3.css"> 
- <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"> 
- <!-- Optional Bootstrap theme --> 
- <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css"> 
-<meta charset="utf-8" http-equiv="Content-Type" />
-<meta name="viewport" content="width=device-width,initial-scale=1">
-</head> 
-<body class="w3-container w3-top w3-center w3-wide">
 <div class="w3-header w3-row w3-wide">
 <div class="w3-orange w3-text-red"><H1>www.kolumnin.com</H1></div> 
 
@@ -50,4 +41,4 @@ My Google sites</a>
 
 
 </body> 
-</html>
+
