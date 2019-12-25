@@ -1,3 +1,4 @@
+Welcome to my limitations!
 
 <div class="w3-header w3-row w3-wide">
 <a href="http://www.kolumnin.com">www.kolumnin.com</a>
