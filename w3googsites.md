@@ -10,18 +10,12 @@
 <body class="w3-container w3-top w3-center w3-wide">
 <div class="w3-header w3-row w3-wide">
 <div class="w3-orange w3-text-red"><H1>www.kolumnin.com</H1></div> 
-<div class="w3-white w3-text-blue"><H1>www.kolumnin.com</H1></div> 
-<div class="w3-green  w3-text-brown">
-<H1>www.kolumnin.com</H1></div> 
-</div>
+</div> 
 <div>
 <a href="https://sites.google.com/site/lokumnin">
 LokuMn</a>
 </div>
- <span class="w3-span w3-white w3-text-black"></span>
- <script>w3IncludeHTML();</script> 
-
-  <!-- Table --> 
+<!-- Table --> 
   <table class="table"> 
    <thead> 
     <tr> 
@@ -30,26 +24,24 @@ LokuMn</a>
    </thead> 
    <tbody> 
     <tr> 
-     <td><a href="https://sites.google.com.sit/Attempts in Poetry Writing/">Attempts in Poetry Writing</a></td> 
-  <td><a href="https://sites.google.com.site/defenceunited/">Defense United</a></td> 
+     <td><a href="https://sites.google.com.sit/Attempts in Poetry Writing/"></a></td> 
+  <td><a href="https://sites.google.com.site/defenceunited/"></a></td> 
     </tr> 
 <tr>
 <td><a href="https://sites.google.com.site/www/">www</a></td>
 </tr> 
   <tr> 
-     <td>2019-12-13 13:00</td> 
+     <td>2019-12-25 09:18</td> 
     </tr> 
    </tbody> 
   </table> 
  </div> 
- 
- <script src="bootstrap/js/jquery.js"></script> 
- <script src="bootstrap/js/bootstrap.js"></script> 
 <div class="w3-row w3-Indigo"> 
 <div class="w3-col l12 m8 s6 w3-red w3-center">
-<div class='w3-rest'><div class="w3-row w3-Indigo w3-wide"><!--2019-12-14-14:34IST-->Last Modified: 2019-12-14 14:38
+<div class='w3-rest'><div class="w3-row w3-Indigo w3-wide"><!--2019-12-14-14:34IST-->Last Modified: 2019-12-25 09:19
 </div> 
-</div></div> 
+</div>
+</div> 
 </div>
 </body> 
 </html>
