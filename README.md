@@ -1,5 +1,5 @@
 https://kolumnin.github.com
-##kolumnin.guthub.io
+https://kolumnin.guthub.io
 ###kolumnin.guthub.io
 
 
