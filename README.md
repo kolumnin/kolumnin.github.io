@@ -1,4 +1,4 @@
-# kolumnin.github.io
+kolumnin.github.com
 ##kolumnin.guthub.io
 ###kolumnin.guthub.io
 
