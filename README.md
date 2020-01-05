@@ -1,4 +1,4 @@
 
-http://kolumnin.github.io/README.md
+http://kolumnin.github.io/index.html
 
 
