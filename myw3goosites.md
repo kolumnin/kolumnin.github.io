@@ -1,5 +1,5 @@
-Welcome to my limitations!
-
+I am having a difficult time due to my memory funding limitations!
+to fix up the few external links I have.
 <div class="w3-header w3-row w3-wide">
 <a href="http://www.kolumnin.com">www.kolumnin.com</a>
 
@@ -9,6 +9,7 @@ Welcome to my limitations!
 My Google sites</a>
 </div>
 
+2020-01-05 16:14
 
 
   
