@@ -1,5 +1,5 @@
 
-http://kolumnin.gi
+http://kolumnin
 
 
 
