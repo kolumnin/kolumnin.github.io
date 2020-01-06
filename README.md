@@ -1,5 +1,5 @@
 
-http://kolumnin.github.io/index.html
+http://kolumnin.gi
 
 
-https://github.com/kolumnin/pages/blob/master/README.md
+
