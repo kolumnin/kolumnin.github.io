@@ -5,7 +5,7 @@ to fix up the few external links I have.
 
 </div>
 <div>
-<a href="https://sites.google.com/site/">
+<a href="https://sites.google.com/site/kolumnin">
 My Google sites</a>
 </div>
 
