@@ -1,1 +1,1 @@
-http://kolumnin.guthub.io/index.html
+http://kolumnin.github.io/index.html
