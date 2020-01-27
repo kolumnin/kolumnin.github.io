@@ -9,38 +9,4 @@ to fix up the few external links I have.
 My Google sites</a>
 </div>
 
-2020-01-27 06:04
-
-
-  
-
-  
-   
-    
-   
-  
-  
- 
-    
-  
-   
-
-
-
-
-
-
- 
-
-
- 
-
-
-
-
-<div class="w3-row w3-Indigo w3-wide"><!--2019-12-14-14:34IST-->Last Modified: 2020-1-27 06:06
---></div> 
-
-
-
-
+2020-01-27 06:07
