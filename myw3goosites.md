@@ -9,7 +9,7 @@
 My Google sites</a>
 </div>
 
-kolumnin.github.io
+kolumnin/kolumnin.github.io
 
 <a href="http://kolumnin.github.io/w3egPge1.html">w3egPge1.html</a>
 
