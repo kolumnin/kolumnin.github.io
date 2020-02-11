@@ -9,12 +9,10 @@
 My Google sites</a>
 </div>
 
-http://kolumnin.github.io/index.html
+kolumnin.github.io
 
 <a href="http://kolumnin.github.io/w3egPge1.html">w3egPge1.html</a>
 
-http://kolumnin.github.io/w3egPge1.html
-
 <HR>
-2020-02-11 12:17
+2020-02-11 12:19
 <HR>
