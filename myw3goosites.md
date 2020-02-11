@@ -1,7 +1,7 @@
 I am having a difficult time due to my memory funding limitations!
 to fix up the few external links I have.
 <div class="w3-header w3-row w3-wide w3-blue">
-<a href="http://www.kolumnin.com">www.kolumnin.com</a>
+<a href="https://www.kolumnin.com">www.kolumnin.com</a>
 </div>
 <HR>
 <div>
