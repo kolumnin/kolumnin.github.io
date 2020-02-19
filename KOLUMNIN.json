@@ -1,0 +1,18 @@
+{
+    "http-basic": {
+        "repo.packagist.com": {
+            "username": "kolumnin",
+            "password": "c4a642668f83bd3da90ca3135e0fddda1855d3a0e4bd30ba0b069e7531e8"
+        }
+    }
+
+    "Author": {
+            "name": "Muraleedharan Koluthappallil",
+            "email": "mk2634@gmail.com"
+            "address": "Dr.K.Muraleedharan, Koluthappallil House, Valamangalam South, Thuravoor, Cherthala, Alappuzha Dr., Kerala, India, pin: 688532"  
+            "website": "http://www.kolumnin.com"
+            "website": "http://sites.google.com/site/"
+            "website": "http://kolumnin.github.io"
+}
+
+}
