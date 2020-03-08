@@ -8,7 +8,7 @@ https://github.com/klmnniou
 
 http://kolumnin.github.io/index.html
 
-<a href="http://kolumnin.github.io/w3egPge1.html"></a>
+<a href="http://kolumnin.github.io/w3egPge1.html">w3pg</a>
 
 https://kolumnin.github.io/Author.html
 
