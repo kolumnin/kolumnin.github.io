@@ -19,3 +19,8 @@ https://kolumnin.github.io/google5e5f7bfeaeac543f.html
 http://www.kolumnin.com
 
 http://kolumnin.disqus.com
+
+http://sites.google.com/site/kolumnin
+
+
+http://sites.google.com/site/
