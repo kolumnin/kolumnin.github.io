@@ -23,7 +23,4 @@ http://www.kolumnin.com
 
 http://kolumnin.disqus.com
 
-http://sites.google.com/site/kolumnin
-https://sites.google.com/site/defenceunited/event-calendar
-http://sites.google.com/site/
 <!--IMG src='/IMG_20200128_082913.jpg'-->
