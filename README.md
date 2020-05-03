@@ -23,4 +23,4 @@ http://www.kolumnin.com
 
 http://kolumnin.disqus.com
 
-<!--IMG src='/IMG_20200128_082913.jpg'-->
+https://kolumnin.github.io/google5e5f7bfeaeac543f
