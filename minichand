@@ -1,1 +1,59 @@
 muraleedharan
+<!DOCTYPE html> <html> <head>
+<meta name="google-site-verification" content="" />
+<script src="http://www.w3schools.com/lib/w3data.js"></script>
+<title>w3egPage</title> 
+<link rel="stylesheet" rel="home" href="http://www.w3schools.com/lib/w3.css"> 
+ <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"> 
+ <!-- Optional Bootstrap theme --> 
+ <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css"> 
+<link rel="stylesheet" rel="home" href="https://kolumnin.github.io/Kol.css"> 
+<meta charset="utf-8" http-equiv="Content-Type" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+</head> 
+<body class="w3-container w3-top w3-center w3-wide">
+<div class="w3-header w3-row w3-wide"><br>
+<div class="w3-col l12 m8 s6 w3-center">
+<div class="w3-orange w3-text-black"><H1><a href="https://kolumnin.github.io/w3egPge.html">muraleedharan</a></H1></div> 
+<!--P>Without enough restraints, my goals can not be positive, as my first steps on this screen fields are always random.
+With the patterns generated, by actions give me a sense of joy, without entering into the thinking fields of the programers or the machine.
+Thus all my "contributions" are just trying to utter a sound to express thanks for my experiences, looking into and touching this mobile screen!
+</P>
+<IMG src="/IMG_1560999410963.jpg" height=200 width=150 align=left alt="Dr.K.Muraleedharan" id="0">
+<BR--><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<div>
+<a href="https://kolumnin.github.io/Author.html"></a>
+</div>
+<span class="w3-span w3-white w3-text-black"><HR></span>
+ <script>w3IncludeHTML();</script> 
+
+  <!-- Table --> 
+  <table class="table"> 
+   <thead> 
+    <tr> 
+     <th></th>
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td><a href="https:/kolumnin.github.io/"></a></td> 
+  <td> <!----></td> 
+    </tr> 
+<tr>
+<td></td>
+</tr> 
+  <tr> 
+     <td></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+ <!--IMG src="/IMG_1560999410963.jpg" height=100 width=75 align=left alt="Dr.K.Muraleedharan" id="1"-->
+ <script src="bootstrap/js/jquery.js"></script> 
+ <script src="bootstrap/js/bootstrap.js"></script> 
+<div class="w3-row w3-Indigo"> 
+<div class='w3-rest'>
+<div class="w3-row w3-Indigo w3-wide"><!--2020-01-31-13:21IST-->Last Modified: 2020-05-19 06:10</div> 
+</div></div>
+</body> 
+</html>
