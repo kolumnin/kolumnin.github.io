@@ -8,8 +8,4 @@ https://github.com/klmnniou
 
 http://kolumnin.github.io/index.html
 
-https://kolumnin.github.io/qWhjf.html
-
-http://www.kolumnin.com
-
 
