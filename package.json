@@ -6,3 +6,26 @@ $ npm login --registry=https://npm.pkg.github.com/
 
 // Step 3: Publish
 $ npm publish
+  > npm init --yes
+  Wrote to /home/ag_dubs/my_package/package.json:
+
+  {
+    "name": "my_package",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kolumnin/my_package.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/kolumnin/my_package/issues"
+    },
+    "homepage": "https://github.com/kolumnin/my_package"
+  }
