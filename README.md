@@ -6,8 +6,8 @@ https://github.com/lokumnin
 
 https://github.com/klmnniou
 
-http://kolumnin.github.io/index.html
+http://kolumnin.github.io
 
-https://kolumnin.github.io/TouchScreen.html
+http://lokumnin.github.io
 
-
+http://klmnniou.github.io
