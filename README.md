@@ -13,3 +13,5 @@ http://lokumnin.github.io
 http://klmnniou.github.io
 
 http://kolumnin.github.io/myGithubApps.html
+
+http://kolumnin.github.io/kolumnin.com
