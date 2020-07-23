@@ -17,4 +17,4 @@ http://kolumnin.github.io/myGithubApps.html
 http://kolumnin.github.io/kolumnin.com
 
 
-http://kolumnin.github.io/name.htm
+http://kolumnin.github.io/Name.htm
