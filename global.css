@@ -62,10 +62,10 @@ footer {
 }
 HR{width:"100%";size:"1";color:"Brown"; }
 hr{width:100%;size:"1";color:"Brown"; }
-body {white-space:wrap; background-color: "RGB(255,255,255)"; 
+html,body {white-space:wrap; background-color: "RGB(255,255,255)"; 
 color:  RGB(0,0,0); 
 text-align:"center";
-width:"auto": height:"auto";
+width:"auto": height:"auto";line-height:1.5em;padding-left:1.5em;
 font:arial; font-family:arial,helvetica,sans-serif,Courier new; margin:10;
 right-margin:0;left-margin:0;padding:0;
 sub{background-color: "" ; color:black;}
