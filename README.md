@@ -12,5 +12,4 @@ http://lokumnin.github.io
 
 http://klmnniou.github.io
 
-http://kolumnin.github.io/feedburner.html
 
