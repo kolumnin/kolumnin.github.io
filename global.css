@@ -12,12 +12,13 @@ font:arial;
 fontsize:12px;
 text-align:left;
 color:  RGB(0,0,0);
-a:link{color: Orange;}
+a:link{color: green;}
 a:visited{color: pink;}
-a:hover{color: red;}
+a:hover{color: yellow;}
 a:active{color: blue;}
 padding: 0px;	
-width:"100%";} 
+width:"";} 
+
 TABLE{float:"center"; width:"AUTO"; bgcolor: "Grey";  
 height:"auto"; bordercollapse:""; 
 border:"5"; bordercolor:""; bordercolordark:""; bordercolorlight:"";
@@ -50,7 +51,7 @@ padding:"5px"; width:"auto"; height:"auto";
 align=top; 
 border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px;  title="www_kolumn_banner";
 }
-.header-image a{display:block;float:left;overflow:hidden;background:url('K/I/0.jpg') no-repeat;}  
+.header-image a{display:block;float:left;overflow:hidden;background:url('') no-repeat;}  
 footer {
     background-color:black;
     color:white;
