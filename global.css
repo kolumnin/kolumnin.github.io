@@ -52,6 +52,9 @@ align=top;
 border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px;  title="www_kolumn_banner";
 }
 .header-image a{display:block;float:left;overflow:hidden;background:url('') no-repeat;}  
+nav {
+display:block;
+}
 footer {
     background-color:black;
     color:white;
