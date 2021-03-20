@@ -16,8 +16,8 @@ a:link{color: green;}
 a:visited{color: pink;}
 a:hover{color: yellow;}
 a:active{color: blue;}
-padding: 0px;	
-width:"";} 
+padding: 15px;	
+width:"99%";} 
 
 TABLE{float:"center"; width:"AUTO"; bgcolor: "Grey";  
 height:"auto"; bordercollapse:""; 
@@ -43,7 +43,7 @@ height:"auto"; bordercollapse:"collapse";
 border:"5"; bordercolor:""; bordercolordark:""; bordercolorlight:"";
 padding:"0";
 }
-header {display:block;float:"center"; background-color:"RGB(255,153,51)"; 
+.header {display:block;float:"center"; background-color:"RGB(255,153,51)"; 
 font:arial;font-family:arial,helvetica,sans-serif,Courier new;
 color: black;
 text-align:center;
@@ -55,7 +55,7 @@ border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top
 nav {
 display:block;
 }
-footer {
+.footer {
     background-color:black;
     color:white;
     font:arial;
