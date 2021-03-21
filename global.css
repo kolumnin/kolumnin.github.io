@@ -51,7 +51,7 @@ padding:""; width:"auto"; height:"auto";
 align=top; 
 border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px;  title="kolumnin_banner";
 }
-.header-image a{display:block;float:left;overflow:hidden;background:url('') no-repeat;}  
+.header-image a{display:block;float:left;overflow:hidden;background:url('/Logo.png') no-repeat;}  
 nav {
 display:block;
 }
