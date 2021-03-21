@@ -2,12 +2,12 @@
 <!--
 /*@media only screen and(min-width:480px){body{width:100%;height:100%;}}*/
 @media all and(min-device-width:480px){body{backgroundcolor:white;}}
-DIV{ ALIGN=CENTER NOWRAP STYLE="width:AUTO; height: AUTO; background:RGB(255,153,51); border-width: 10px; border-color: solid blue; margin: 1px; left-margin: 1px; top-margin: 1px; right-margin: 1px; bottom-margin: 1px; float: center; "
+DIV{ ALIGN=CENTER NOWRAP STYLE="width:AUTO; height: AUTO; background: Orange; border-width: 10px; border-color: solid blue; margin: 3px; left-margin: 1px; top-margin: 1px; right-margin: 1px; bottom-margin: 0px; float: center; "
 name="kolumnin_logo"; 
 title="kolumnin_logo"; }
 area{shape="rect" coords="0,0,x,x";}
 nav {align:left;
-background-color:"RGB(55,55,55)"; 
+background-color:"RGB(155,55,55)"; 
 font:arial;
 fontsize:12px;
 text-align:left;
