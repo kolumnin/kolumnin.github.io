@@ -7,16 +7,16 @@ name="kolumnin_logo";
 title="kolumnin_logo"; }
 area{shape="rect" coords="0,0,x,x";}
 nav {align:left;
-background-color:"RGB(155,55,55)"; 
+background-color:""; 
 font:arial;
 fontsize:12px;
 text-align:left;
-color:  RGB(0,0,0);
+color:  "";
 a:link{color: green;}
 a:visited{color: pink;}
-a:hover{color: yellow;}
+a:hover{color: red;}
 a:active{color: blue;}
-padding: 15px;	
+padding: 10px;	
 width:"99%";} 
 
 TABLE{float:"center"; width:"AUTO"; bgcolor: "Grey";  
@@ -43,31 +43,31 @@ height:"auto"; bordercollapse:"collapse";
 border:"5"; bordercolor:""; bordercolordark:""; bordercolorlight:"";
 padding:"0";
 }
-.header {display:block;float:"center"; background-color:"RGB(255,153,51)"; 
+.header {display:block;float:"center"; background-color:""; 
 font:arial;font-family:arial,helvetica,sans-serif,Courier new;
 color: black;
 text-align:center;
-padding:"5px"; width:"auto"; height:"auto"; 
+padding:""; width:"auto"; height:"auto"; 
 align=top; 
-border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px;  title="www_kolumn_banner";
+border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px;  title="kolumnin_banner";
 }
 .header-image a{display:block;float:left;overflow:hidden;background:url('') no-repeat;}  
 nav {
 display:block;
 }
 .footer {
-    background-color:black;
-    color:white;
+    background-color:"";
+    color:"";
     font:arial;
     fontsize:12px;
     text-align:left;
-    padding:5px; 
+    padding:0px; 
    width:"100%";	 	 
 }
 HR{width:"100%";size:"1";color:"Brown"; }
 hr{width:100%;size:"1";color:"Brown"; }
-html,body {white-space:wrap; background-color: "RGB(255,255,255)"; 
-color:  RGB(0,0,0); 
+html,body {white-space:wrap; background-color: ""; 
+color: ""; 
 text-align:"center";
 width:"auto": height:"auto";line-height:1.5em;padding-left:1.5em;
 font:arial; font-family:arial,helvetica,sans-serif,Courier new; margin:10;
@@ -76,25 +76,25 @@ sub{background-color: "" ; color:black;}
 sup{background-color: "" ; color:black;}
 }
 H1,H2,H3,H4,H5,H6{align:center; text-align:center;font-family: arial, helvetica,sans-serif,Courier new;}
-H1{background-color: RGB(255,153,51); color: Black;font-size:32px;} 
-H2{background-color: RGB(255,255,255); color: RGB(0,0,128); 
+H1{background-color: ""; color: Black;font-size:32px;} 
+H2{background-color: ""; color: RGB(0,0,128); 
 font-size:24px;} 
-H3{background-color:RGB(18,128,8); color: RGB(255,255,255); font-size:18px;} 
-H4{background-color: RGB(234,244,219); color: black; font-size:12px;}
-H5{background-color: rgb(128,128,0); color: red; font-size: 10px;}
+H3{background-color:""; color: ""; font-size:18px;} 
+H4{background-color: ""; color: "'; font-size:12px;}
+H5{background-color:"'; color: ""; font-size: 10px;}
 H6{background-color: ''; color: '';font-size: "8px";}
 h1,h2,h3,h4,h5,h6{align:center; text-align:center;  font-family:arial; font:arial;}
-h1{background-color: RGB(255,153,51); color: Black;font-size:32px;} 
-h2{background-color: RGB(255,255,255); color: RGB(0,0,128); 
+h1{background-color: ""; color: "";font-size:32px;} 
+h2{background-color: "'; color: ""; 
 font-size:24px;} 
 h3{background-color:RGB(18,128,8); color: RGB(255,255,255);font-size:18px;} 
 h4{background-color: RGB(207,88,217); color: orange; font-size:12px;}
 h5{align:center;background-color: rgb(128,128,0); color: black; font-size: 10px;}
 h6{}
-p{background-color: "RGB(255,153,51)"; 
+p{background-color: ""; 
 font:arial; font-family:,helvetica,sans-serif,Courier new;
 fontsize:12px;
-color: "RGB(128,128,0)";
+color: "";
 }
 #p1{background-color:'blue';  color: 'white';}
 /*text-indent=5px;text-align: "left"; left-margin: 5px; right-margin:5px; padding:5px;}
