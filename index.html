@@ -9,6 +9,114 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 </head>
+<html lang="en">
+<head>
+<title>KoluMnIN_Logo_html</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link rel="stylesheet" href="/global.css" type="text/css">
+</head>
+<style>
+/* Style the header with a grey background and some padding */
+.header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active/current link*/
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
+@media screen and (max-width: 1000px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
+}
+.Logo {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 24px; 
+  line-height: 25px;
+  border-radius: 4px;}
+body, html {
+    height: 100%;
+}
+
+/* The logo image */
+.logo-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+</style>
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<body class="w3-color-yellow w3-wide w3-center">
+<DIV Id="Logo" class="header">
+<div class="logo-image"><img src='/Logo.png' class="w3-logo w3-responsive" width=800px height="auto">
+<div class="logo-text">
+
+<p><H1><button>KOLUMNIN</button></H1></p>
+    
+<!--button class="w3-BTN" width="400px" height="200px" w3.show('#Logo'); onclick="w3.hide('#Logo')"; return:false;>
+<a href="https://kolumnin.github.io/" class="Logo">KoluMnIN</a></button-->
+  </div>
+</div>
+</DIV>
 <body bgcolor="white" class="w3-container w3-border-red w3-wide">
 <b>Welcome! to:</b><br><br>
 <div class="w3-header w3-border-blue w3-wide">
