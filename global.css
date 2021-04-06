@@ -23,7 +23,7 @@ width:"100%";}
 .header {
   overflow: hidden;
   background-color: #f1f1f1;
-  padding: 0px 0px;
+  padding: 1px 1px;
   border: 5px;
 }
 
@@ -147,7 +147,7 @@ border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top
     text-align:left;display:block;
 }
 .footer {
-    background-color:"Silver";
+    background-color:"Green";
     color:"black";
     font:arial;
     fontsize:12px;
