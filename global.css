@@ -71,6 +71,7 @@ width:"100%";}
 
 body, html {bgcolor:white;
     height: 100%;
+    width: 999px;
 }
 
 /* The logo image */
@@ -167,7 +168,7 @@ sub{background-color: "" ; color:black;}
 sup{background-color: "" ; color:black;}
 }
 H1,H2,H3,H4,H5,H6{align:center; text-align:center;font-family: arial, helvetica,sans-serif,Courier new;}
-H1{background-color: ""; color: Black;font-size:32px;} 
+H1{background-color: "white"; color: Black;font-size:32px;} 
 H2{background-color: ""; color: ""; 
 font-size:24px;} 
 H3{background-color:""; color: ""; font-size:18px;} 
@@ -182,10 +183,10 @@ h3{background-color:""; color: "";font-size:18px;}
 h4{background-color: ""; color: ""; font-size:12px;}
 h5{align:center;background-color:"'; color: ""; font-size: 10px;}
 h6{}
-p{background-color: ""; 
+p{background-color: "white"; 
 font:arial; font-family:,helvetica,sans-serif,Courier new;
 fontsize:12px;
-color: "";
+color: "black";
 }
 #p1{background-color:'blue';  color: 'white';}
 /*text-indent=5px;text-align: "left"; left-margin: 5px; right-margin:5px; padding:5px;}
