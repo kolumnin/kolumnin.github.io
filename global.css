@@ -2,7 +2,7 @@
 <!--
 /*@media only screen and(min-width:480px){body{width:100%;height:100%;}}*/
 @media all and(min-device-width:480px){body{backgroundcolor:white;}}
-DIV{ ALIGN=LEFT NOWRAP STYLE="width:AUTO; height: AUTO; background: 'white'; border-width: 10px; border-color: solid blue; margin: 0px; left-margin: 1px; top-margin: 1px; right-margin: 1px; bottom-margin: 1px; float: center; "
+DIV{ ALIGN=LEFT NOWRAP STYLE="width:AUTO; height: AUTO; background: 'white'; border-width: 10px; border-color: solid blue; margin: 1px; left-margin: 1px; top-margin: 1px; right-margin: 1px; bottom-margin: 1px; float: center; "
 name="kolumnin_logo"; 
 title="kolumnin_logo"; }
 area{shape="rect" coords="0,0,x,x";}
@@ -71,7 +71,7 @@ width:"100%";}
 
 body, html {bgcolor:white;
     height: 100%;
-    width: 999px;
+    width: 100%;
 }
 
 /* The logo image */
@@ -148,7 +148,7 @@ border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top
     text-align:left;display:block;
 }
 .footer {
-    background-color:"Yellow";
+    background-color:"white";
     color:"black";
     font:arial;
     fontsize:12px;
@@ -158,8 +158,8 @@ border-width: 0px; border-color: solid black; margin: 0px; left-margin: 0px; top
 }
 HR{width:"";size:"";color:""; }
 hr{width:"";size:"";color:""; }
-html,body {white-space:wrap; background-color: ""; 
-color: ""; 
+html,body {white-space:wrap; background-color: "white"; 
+color: "black"; 
 text-align:"center";
 width:"auto": height:"auto";line-height:1.5em;padding-left:1.5em;
 font:arial; font-family:arial,helvetica,sans-serif,Courier new; margin:10;
