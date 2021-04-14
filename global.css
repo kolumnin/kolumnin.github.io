@@ -3,8 +3,8 @@
 /*@media only screen and(min-width:480px){body{width:100%;height:100%;}}*/
 @media all and(min-device-width:480px){body{backgroundcolor:white;}}
 DIV{ ALIGN=LEFT NOWRAP STYLE="width:AUTO; height: AUTO; background: 'white'; border-width: 10px; border-color: solid blue; margin: 1px; left-margin: 1px; top-margin: 1px; right-margin: 1px; bottom-margin: 1px; float: center; "
-name="kolumnin_logo"; 
-title="kolumnin_logo"; }
+name="logo"; 
+title="logo"; }
 area{shape="rect" coords="0,0,x,x";}
 .nav {align:left;
 background-color:"white"; 
@@ -69,7 +69,7 @@ width:"100%";}
   }
 }
 
-body, html {background-color:gray;
+BODY, body, html {background-color:White;
     height: 100%;
     width: 100%;
 }
