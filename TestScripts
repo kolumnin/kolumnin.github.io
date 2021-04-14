@@ -1,3 +1,12 @@
 
 <!--button class="BTN w3-xxlarge w3-center" w3.show('#Logo'); onclick="w3.hide('#Logo')"; return:false;>
 <a href="https://kolumnin.github.io/Author.html" class="Logo">KoluMnIN</a></button-->
+
+<!--DIV class="header">
+<a class="anchor w3-color w3-green" href="https://github.com/kolumnin"><h1>
+KoluMnIN</h1></a>
+<span class="w3-nav"><a class="active w3-pale-green" href="/index.html">Home</a>
+<a class="active w3-pale-blue" href="/Author.html">Contact</a>
+</span>
+</DIV-->
+
