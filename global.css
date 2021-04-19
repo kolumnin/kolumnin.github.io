@@ -2,7 +2,7 @@
 <!--
 /*@media only screen and(min-width:480px){body{width:100%;height:100%;}}*/
 @media all and(min-device-width:480px){body{backgroundcolor:white;}}
-DIV{ ALIGN=LEFT NOWRAP STYLE="width:AUTO; height: AUTO; background: 'pale-blue'; border-width: 0px; border-color: solid blue; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px; float: center; "
+DIV{ ALIGN=LEFT NOWRAP STYLE="width:100%; height: AUTO; background: 'pale-red'; border-width: 1px; border-color: solid blue; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px; float: center; "
 name="logo"; 
 title="logo"; }
 area{shape="rect" coords="0,0,x,x";}
