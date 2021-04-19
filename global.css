@@ -7,7 +7,7 @@ name="logo";
 title="logo"; }
 area{shape="rect" coords="0,0,x,x";}
 .nav {align:left;
-background-color:"white"; 
+background-color:"red"; 
 font:arial;
 fontsize:12px;
 text-align:left;
