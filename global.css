@@ -1,7 +1,7 @@
 <style type="text/css" title="KoluMnIN_w3-gh-stylesheet">
 <!--
 /*@media only screen and(min-width:480px){body{width:100%;height:100%;}}*/
-@media all and(min-device-width:480px){body{backgroundcolor:'';}}
+@media all and(min-device-width:480px){body{backgroundcolor:'blue';}}
 DIV{ ALIGN=LEFT NOWRAP STYLE="width:100%; height: AUTO; background: ''; border-width: 0px; border-color: solid blue; margin: 0px; left-margin: 0px; top-margin: 0px; right-margin: 0px; bottom-margin: 0px; float: left; "
 name="logo"; 
 title="logo"; }
@@ -69,7 +69,7 @@ width:"100%";}
   }
 }
 
-BODY, body, html {background-color:"";
+BODY, body, html {background-color:"PaleGreen";
     height: auto;
     width: auto;
 }
