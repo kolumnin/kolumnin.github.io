@@ -1,8 +1,9 @@
+Table|Table
 ---
 # Edit theme's home layout
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home?
-author_profile: true?
+layout: home
+author_profile: true
 ---
 My GitHub organization draft.
 
