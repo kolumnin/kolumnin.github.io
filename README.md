@@ -6,9 +6,9 @@ author_profile: true
 ---
 My GitHub organization draft.
 
-[kolumnin](https://github.com/kolumnin]
+[kolumnin](https://github.com/kolumnin)
 
-[Lokumnin]https://github.com/lokumnin]
+[Lokumnin](https://github.com/lokumnin)
 
 [klmnniou](https://github.com/klmnniou)
 
