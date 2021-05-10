@@ -73,7 +73,11 @@ BODY, body, html {background-color:"w3-white";
     height: auto;
     width: auto;
 }
-
+.responsive {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
 /* The logo image */
 .logo-image {
   /* Use "linear-gradient" to add a darken background effect to the image (xx.jpg). This will make the text easier to read */
