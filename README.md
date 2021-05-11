@@ -4,20 +4,8 @@
 layout: default
 author_profile: true
 ---
-My GitHub organization draft.
-
-[kolumnin](https://github.com/kolumnin)
-
-[Lokumnin](https://github.com/lokumnin)
-
-[klmnniou](https://github.com/klmnniou)
-
-My GitHub hosted sites:
-
-[kolumnin.github.io](http://kolumnin.github.io)
-
-[lokumnin.github.io](http://lokumnin.github.io)
-
-[klmnniou.github.io](http://klmnniou.github.io)
+This web site 
+[kolumnin.github.io](http://kolumnin.github.io) is
+hosted by [GitHub](https://GitHub.com) pages and styled by [w3school](https://www.w3schools.com) style schemes.
 
 
