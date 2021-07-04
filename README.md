@@ -2,7 +2,8 @@
 # Edit theme's home layout
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-author_profile: true
+author_profile: true 
+device: mobile
 ---
 This web site 
 [kolumnin.github.io](http://kolumnin.github.io) is
