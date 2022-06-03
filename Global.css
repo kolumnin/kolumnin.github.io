@@ -23,8 +23,8 @@ width:"100%";}
 .header {
   overflow: hidden;
   background-color: #f1f0f0;
-  padding: 3px 3px;
-  border: 3px;
+  padding: 0px 0px;
+  border: 1px;
 }
 
 /* Style the header links */
@@ -48,7 +48,7 @@ width:"100%";}
 /* Change the background color on mouse-over */
 .header a:hover {
   background-color: #ddd;
-  color: black;
+  color: blue;
 }
 
 /* Style the active/current link*/
