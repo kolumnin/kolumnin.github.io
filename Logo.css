@@ -9,7 +9,7 @@
 /* Style the header links */
 .header a {
   float: left;
-  color: black;
+  color: blue;
   text-align: center;
   padding: 12px;
   text-decoration: none;
@@ -27,13 +27,13 @@
 /* Change the background color on mouse-over */
 .header a:hover {
   background-color: #ddd;
-  color: black;
+  color: green;
 }
 
 /* Style the active/current link*/
 .header a.active {
-  background-color: dodgerblue;
-  color: white;
+  background-color: white;
+  color: skyblue;
 }
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
