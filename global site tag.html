@@ -1,1 +1,133 @@
-<! DOCUMENT TYPE HTML>
+Skip to content
+kolumnin
+/
+pages
+Public
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+pages/Page2.html
+@kolumnin
+kolumnin Update Page2.html
+ 1 contributor
+100 lines (97 sloc)  3.81 KB
+---
+layout: presentation
+---
+
+{% for post in site.posts reversed %}
+	{% include slide.html %}
+	<div class="page-break"></div>
+{% endfor %}
+{% unless site.simple-slideshow %}
+{% if site.overview %}
+<section id="overview" class="step" {% for attr in site.overview-data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}></section>
+{% endif %}
+{% endunless %}
+
+<!DOCTYPE HTML>
+<head>
+<title>global_site_tag_html</title>
+<!--meta http-equiv="refresh"
+        content="8; url = https://kolumnin.github.io/Author.html"-->  
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="Author" content="Dr. Muraleedharan Koluthappallil">
+<meta name="website" content="https://kolumnin.github.io">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="/global.css" type="text/css">
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+</head>
+<body class="w3-container w3-color-black w3-white w3-left">
+<div class="w3-col-3 l12 m8 s6 w3-left">
+<section class="page-header">
+<header Id="Logo" class="logo">
+<div class="w3-logo-image">
+<H1><a class="anchor" href="https://kolumnin.github.io/Author.html">
+<img src='/LOGO.jpg' class="w3-center w3-btn" width="" height=""></a></H1>
+</div>
+<div class="w3-logo-text">
+<a class="w3-logo w3-red w3-btn w3-left" href="/index.html">Home</a><a class="w3-logo w3-green w3-btn w3-left" href="/Author.html">Contact</a><a class="w3-logo w3-blue w3-btn w3-left" href="https://kolumnin.github.io/KOLUMNIN.com/">About</a>
+</div>
+</header>
+</section>
+<section>
+   <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("/page3.html"); 
+    });
+    </script> 
+<div><a href="https://www.kolumnin.com/"></a>
+<div><a href="https://KoluMnIN.github.io/"></a></div>
+<div><a href="https://kolumnin.github.io/pages/Index.html"><IMG src="/pages/myWingsOfFire.jpg" width="150" height="100"></a></div>
+<div>
+<a href="http://youtube.com/shorts/yQnGMZwQIeg?feature=share">Youtube Channel</a>
+<a href="https://youtube.com/shorts/ezyJU9vFVKw?feature=share">Channel2</a>
+<a href="https://m.youtube.com/channel/UCj4Q7Wo2JcOKMUKRub_NYHw">Channel3</a>
+</div>
+    <h1 style="text-align:center;color:green;">  
+       Redirecting. . . 
+    </h1>  
+      
+    <p style="text-align:center;">  
+        If your browser supports Refresh,  
+        you'll be redirected to the page  
+        in 5 seconds.  
+    </p>  
+<div w3-include-html="/page3.html"></div>
+   <div id="includedContent"></div>
+<div class="w3-col-3 w3-center">
+<a href="http://kolumnin.github.io/pages/LOGO.html">
+<img src="/pages/Radial_20200717_054817_resize_84.jpg">
+</a>
+</div>
+<a href="http://kolumnin.github.io/pages/Page1.html">page1</a>
+<br>
+<a href="http://kolumnin.github.io/pages/Page2.html">page2</a>
+<br>
+<a href="http://kolumnin.github.io/pages/page3.html">page3</a>
+</section>
+<section>
+<div class="w3-container w3-pale-blue" Id="Author">
+<div style="text-align:left">
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOTM3NTIxMC9wb2RjYXN0L3Jzcw=="><IMG class="w3-image-card-4" SRC="/IMG_1560999410963.jpg" height="200px" width="150px" alt="Author">KoluMnIN podcasts
+</a><br>
+<p>
+<b>Name: Dr Muraleedharan Koluthappallil<br>
+email: mk2634@gmail.com<br>
+Tel: +919387177255/+918289857255</b><div class="w3-col l12 m8 s6 w3-left"></p>
+</div></div>
+</section>
+<section>
+<div class="w3-rest">
+<hr>
+<footer Id="Logo" class="w3-col-3 w3-footer w3-left">
+<div>©2000-<a href="http://KoluMnIN.github.io/Author.html">Dr.K.Muraleedharan</a> All rights reserved.</div>
+<p>Last update: 14:47 2022 Jun 26</a>@kolumnin</p>
+</footer>
+</section>
+<div class="w3-col-3 w3-pale-green w3-center"><a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
+</div>
+</div></div>
+</body></html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
