@@ -64,75 +64,136 @@ Click the link to install the myDeviceAccessGateway application:
 <hr>
 If you Sponsor my open source activities, you will be recognised as my sponsor anywhere I go. You will also get a sponsor badge.
 <iframe src="https://github.com/sponsors/kolumnin/button" title="Sponsor kolumnin" height="35" width="116" style="border: 0;"></iframe>
-<hr>
 <div id="smart-button-container">
-      <div style="text-align: center;">
-        <div id="paypal-button-container"></div>
-      </div>
-    </div>
+    <div style="text-align: center"><label for="description">Sponsor </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
+      <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
+    <div style="text-align: center"><label for="amount"> </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
+      <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
+    <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
+      <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
+    <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
+  </div>
   <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
   <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'paypal',
-          
-        },
+  function initPayPalButton() {
+    var description = document.querySelector('#smart-button-container #description');
+    var amount = document.querySelector('#smart-button-container #amount');
+    var descriptionError = document.querySelector('#smart-button-container #descriptionError');
+    var priceError = document.querySelector('#smart-button-container #priceLabelError');
+    var invoiceid = document.querySelector('#smart-button-container #invoiceid');
+    var invoiceidError = document.querySelector('#smart-button-container #invoiceidError');
+    var invoiceidDiv = document.querySelector('#smart-button-container #invoiceidDiv');
 
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"amount":{"currency_code":"USD","value":1}}]
-          });
-        },
+    var elArr = [description, amount];
 
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(orderData) {
-            
-            // Full available details
-            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-            // Show a success message within this page, e.g.
-            const element = document.getElementById('paypal-button-container');
-            element.innerHTML = '';
-            element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-            // Or go to another URL:  actions.redirect('thank_you.html');
-            
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
+    if (invoiceidDiv.firstChild.innerHTML.length > 1) {
+      invoiceidDiv.style.display = "block";
     }
-    initPayPalButton();
+
+    var purchase_units = [];
+    purchase_units[0] = {};
+    purchase_units[0].amount = {};
+
+    function validate(event) {
+      return event.value.length > 0;
+    }
+
+    paypal.Buttons({
+      style: {
+        color: 'gold',
+        shape: 'rect',
+        label: 'paypal',
+        layout: 'vertical',
+        
+      },
+
+      onInit: function (data, actions) {
+        actions.disable();
+
+        if(invoiceidDiv.style.display === "block") {
+          elArr.push(invoiceid);
+        }
+
+        elArr.forEach(function (item) {
+          item.addEventListener('keyup', function (event) {
+            var result = elArr.every(validate);
+            if (result) {
+              actions.enable();
+            } else {
+              actions.disable();
+            }
+          });
+        });
+      },
+
+      onClick: function () {
+        if (description.value.length < 1) {
+          descriptionError.style.visibility = "visible";
+        } else {
+          descriptionError.style.visibility = "hidden";
+        }
+
+        if (amount.value.length < 1) {
+          priceError.style.visibility = "visible";
+        } else {
+          priceError.style.visibility = "hidden";
+        }
+
+        if (invoiceid.value.length < 1 && invoiceidDiv.style.display === "block") {
+          invoiceidError.style.visibility = "visible";
+        } else {
+          invoiceidError.style.visibility = "hidden";
+        }
+
+        purchase_units[0].description = description.value;
+        purchase_units[0].amount.value = amount.value;
+
+        if(invoiceid.value !== '') {
+          purchase_units[0].invoice_id = invoiceid.value;
+        }
+      },
+
+      createOrder: function (data, actions) {
+        return actions.order.create({
+          purchase_units: purchase_units,
+        });
+      },
+
+      onApprove: function (data, actions) {
+        return actions.order.capture().then(function (orderData) {
+
+          // Full available details
+          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+          // Show a success message within this page, e.g.
+          const element = document.getElementById('paypal-button-container');
+          element.innerHTML = '';
+          element.innerHTML = '<h3>Thank you for your payment!</h3>';
+
+          // Or go to another URL:  actions.redirect('thank_you.html');
+          
+        });
+      },
+
+      onError: function (err) {
+        console.log(err);
+      }
+    }).render('#paypal-button-container');
+  }
+  initPayPalButton();
   </script>
+2022-08-07-08:57@kolumnin
+<hr>
+
 
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 <div>©2000-<a href="http://KoluMnIN.github.io/Author.html">Dr.K.Muraleedharan</a> All rights reserved.</div>
-<p>Last update: 05:24 2022 Aug 08</a>@kolumnin</p>
+<p>Last update: 05:31 2022 Aug 08</a>@kolumnin</p>
 </footer>
 </section>
 <div class="w3-col-3 w3-pale-green w3-center"><a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
 </div>
 </div>
 </div>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/62eca83d54f06e12d88d06b9/1g9m72go2';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
 </body>
 </html>
