@@ -5,7 +5,7 @@ layout: default
 author_profile: true 
 device: mobile
 ---
-[Continuous Integration status](https://github.com/kolumnin.github.io/www.githubstatus.com/workflows/Continuous%20Integration)
+[status](https://github.com/kolumnin.github.io/githubstatus.com/status)
 
 This web site 
 [kolumnin.github.io](http://kolumnin.github.io) is
