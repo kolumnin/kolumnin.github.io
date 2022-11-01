@@ -1,11 +1,11 @@
 ---
 # Edit theme's home layout
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: jkyll
+layout: default
 author_profile: true 
 device: mobile
 ---
-[status](https://github.com/kolumnin.github.io/githubstatus.com/status)
+[status](https://github.com/kolumnin.github.io/status)
 
 This web site 
 [kolumnin.github.io](http://kolumnin.github.io) is
