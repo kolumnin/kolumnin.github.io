@@ -5,7 +5,6 @@ layout: default
 author_profile: true 
 device: mobile
 ---
-[status](https://github.com/kolumnin.github.io/status)
 
 This web site 
 [kolumnin.github.io](http://kolumnin.github.io) is
