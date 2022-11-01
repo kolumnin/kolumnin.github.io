@@ -5,7 +5,7 @@ layout: default
 author_profile: true 
 device: mobile
 ---
-[Continuous Integration status](https://github.com/kolumnin/workflows/Continuous%20Integration/badge.svg)
+[Continuous Integration status](https://github.com/kolumnin.github.io/workflows/Continuous%20Integration/badge.svg)
 This web site 
 [kolumnin.github.io](http://kolumnin.github.io) is
 hosted by [GitHub](https://GitHub.com) [pages](https://pages.github.com/) and styled by [w3school](https://www.w3schools.com) style schemes.
