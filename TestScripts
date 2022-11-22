@@ -45,6 +45,10 @@ function includeHTML() {
   }
 }
 </script>
+Search Engine
+<script async src="https://cse.google.com/cse.js?cx=ab4a1a0a75963fa21"></script>
+<div class="gcse-search"></div>
+
 <!DOCTYPE HTML>
 <head>
 <title>page</title>
