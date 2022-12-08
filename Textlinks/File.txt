@@ -140,3 +140,32 @@ PODCASTS
 <a class="anchor w3-logo" href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
 <a class="anchor w3-logo" href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"><b>Terms</b></a> <a class="anchor w3-logo" href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement"><b>Privacy</b></a>
 2022NOVEMBER08 10:43
+<!--div class="w3-panel w3-border-0 w3-orange">
+<a href="https://app.hubspot.com/login/">hubspot</a></div>
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/24905054.js"></script>
+<!-- End of HubSpot Embed Code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NWK2PFX');</script>
+<!-- End Google Tag Manager -->
+<!--Start of Tawk.to Script-->
+<!--script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/62eca84137898912e96158cd/1g9m72go2';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script-->
+<!--End of Tawk.to Script-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWK2PFX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
