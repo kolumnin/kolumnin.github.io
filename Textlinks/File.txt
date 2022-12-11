@@ -71,6 +71,7 @@ s0.parentNode.insertBefore(s1,s0);
 <a class="w3-logo w3-purple w3-btn w3-left" href="HTTPS://www.bsnl.co.in">telecom</a>
 <a class="w3-logo w3-green w3-btn w3-left" href="https://gitlab.com/users/sign_in">gitlab</a>
 <a class="w3-logo w3-blue w3-btn w3-left" href="https://github.com/marketplace/my-device-access-gateway"></a>
+<a class="w3-logo w3-pink w3-btn w3-left" href="https://gumroad.com">gumroad</a>
 
 <section class="w3-section">
 <div class="w3-panel w3-border-0 w3-pale-pink">
@@ -169,3 +170,5 @@ s0.parentNode.insertBefore(s1,s0);
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWK2PFX"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+Last update: 2022-12-11-11:13
