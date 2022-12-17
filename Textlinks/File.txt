@@ -171,4 +171,24 @@ s0.parentNode.insertBefore(s1,s0);
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-Last update: 2022-12-11-11:13
+<!--
+<p>
+<p>Enter your email address:</p>
+<p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="Kolumnin" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" />
+<p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form-->
+</p>
+<!--img class="w3-image w3-card-4" src="/1618715801585.jpg">
+<embed width="320" 
+       height="60"
+       src="https://www.yourquote.in/embed/b3z1e0"></div-->
+<!--iframe src="https://github.com/kolumnin/kolumnin.github.io/Hello Poetry kolumn" width="240" height="180" allow="autoplay"></iframe-->
+<!--Gumroad Subscription
+<style>#gumroad-follow-form-embed{margin: 0px; padding: 0px; box-sizing: border-box; min-width: 0px;display: grid; grid-auto-flow: column; gap: 0.75rem; grid-template-columns: 1fr; grid-auto-columns: max-content; align-items: center;}#gumroad-follow-form-embed-button{margin: 0px; padding: 0px; box-sizing: border-box; min-width: 0px;background: transparent; font-size: 1rem; line-height: 1.5; --line-height: 1.5rem; padding: 0.75rem 1rem; border: 0.0625rem solid rgb(0, 0, 0); color: rgb(0, 0, 0); border-radius: 0.25rem; font-family: "Mabry Pro", sans-serif; grid-auto-flow: column; grid-auto-columns: minmax(0px, max-content); display: inline-grid; align-items: center; justify-content: center; gap: 0.5rem; cursor: pointer; text-decoration: none; transition: all 0.14s ease-out 0s;background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);}#gumroad-follow-form-embed-button:hover{transform: translate(-0.25rem, -0.25rem); box-shadow: rgb(0, 0, 0) 0.25rem 0.25rem;background-color: var(--accent); color: var(--contrast-accent);}#gumroad-follow-form-embed-input{margin: 0px; padding: 0px; box-sizing: border-box; min-width: 0px;outline: none; font-family: "Mabry Pro", sans-serif; padding: 0.75rem 1rem; font-size: 1rem; line-height: 1.5; --line-height: 1.5rem; border: 0.0625rem solid rgb(0, 0, 0); border-radius: 0.25rem; display: block; width: 100%; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); --active-bg: #f4f4f0;}#gumroad-follow-form-embed-input::placeholder{color: rgb(168, 162, 158);}#gumroad-follow-form-embed-input:focus-within{outline: rgb(255, 144, 232) solid 0.125rem;}#gumroad-follow-form-embed-input:disabled{cursor: not-allowed; opacity: 0.3;}#gumroad-follow-form-embed-input:read-only{background-color: rgb(244, 244, 240); color: rgb(0, 0, 0);}</style><form class="input-with-button" action="https://app.gumroad.com/follow_from_embed_form" method="post" style="--accent:var(--accent);--contrast-accent:var(--contrast-accent)" id="gumroad-follow-form-embed"><input type="hidden" name="seller_id" value="9991565265681"/><input id="gumroad-follow-form-embed-input" type="email" placeholder="Your email address" name="email" value=""/><button id="gumroad-follow-form-embed-button" class="primary" type="submit">Follow</button></form>
+-->
+<!--a href="https://sites.google.com/site/defenceunited/event-calendar">DefenceUnited<br>
+<a href="https://sites.google.com/site/">My Google Site's</a--><br>
+<!--form style="border:1px solid #ccc;padding:3px;text-align:center;"action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Kolumnin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+
+-->
+
+Last update: 2022-12-17-17:06
