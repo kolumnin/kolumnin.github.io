@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <head>
-<title>Author_htm</title>
+
 <meta http-equiv="refresh"
         content="8; url = https://kolumnin.github.io/Author.htm">  
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -9,18 +9,18 @@
 <meta name="website" content="https://kolumnin.github.up/Author.htm">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="/global.css" type="text/css">
-<script src="https://www.w3schools.com/lib/w3.js"></script>
+
 </head>
 <body class="w3-container w3-color-black w3-white w3-left">
 <div class="w3-col-3 l12 m8 s6 w3-left">
 <section class="page-header">
 <header Id="Logo" class="logo">
 <div class="w3-logo-image">
-<H1><a class="anchor" href="https://kolumnin.github.io/Author.htm">
+<H1><a class="anchor" href="https://kolumnin.github.io/Author.md">
 <img src='/LOGO.jpg' class="w3-center w3-btn" width="" height=""></a></H1>
 </div>
 <div class="w3-logo-text">
-<a class="w3-logo w3-red w3-btn w3-left" href="/Author.htm">Author</a> 
+<a class="w3-logo w3-red w3-btn w3-left" href="/Author.md">Author</a> 
 </div>
 </header>
 </section><BR><BR><BR><BR>
