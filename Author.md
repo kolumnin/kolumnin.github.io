@@ -9,14 +9,13 @@
 <meta name="website" content="https://kolumnin.github.up/Author.md">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="/global.css" type="text/css">
-<script src="https://www.w3schools.com/lib/w3.js"></script>
 </head>
 <body class="w3-container w3-color-black w3-white w3-left">
 <div class="w3-col-3 l12 m8 s6 w3-left">
 <section class="page-header">
 <header Id="Logo" class="logo">
 <div class="w3-logo-image">
-<H1><a class="anchor" href="https://kolumnin.github.io/Author.md">
+<H1><a src="https://www.w3schools.com/lib/w3.js"></a><a class="anchor" href="https://kolumnin.github.io/Author.md">
 <img src='/LOGO.jpg' class="w3-center w3-btn" width="" height=""></a></H1>
 </div>
 <div class="w3-logo-text">
@@ -99,7 +98,7 @@ Previously used mobile devices: Xiaomi Redmi 5, Nokia 3114c, Reliance, Nokia 114
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="http://kolumnin.github.io/Author.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified: 19 December  2022 07:22 IST@Koluthalppallil House
+Last modified: 19 December  2022 07:35 IST@Koluthalppallil House
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
