@@ -2,11 +2,11 @@
 <head>
 
 <meta http-equiv="refresh"
-        content="8; url = https://kolumnin.github.io/Author.htm">  
+        content="3; url = https://kolumnin.github.io/Author.md">  
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="Author" content="Dr. Muraleedharan Koluthappallil">
-<meta name="website" content="https://kolumnin.github.up/Author.htm">
+<meta name="website" content="https://kolumnin.github.up/Author.md">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="/global.css" type="text/css">
 
@@ -32,11 +32,11 @@ Country of Residence: India
 Country of Birth: India
 Nationality: Indian
 Citizenship: Indian
-Website:[kolumnin](https://kolumnin.github.in)
+Website:[kolumnin](https://kolumnin.github.io)
 Name: Muraleedharan
 Date of Birth: 17th March 1959
 
-Academic and Professional Records�June
+Academic and Professional Records 
 
 June 1971- March 1974: Secondary School Leaving Certificate (SSLC). S.C.U. High School, Pattanacaud, Kerala.
 June 1974-March 1976: Pre-Degree with Physics, Chemistry and Mathematics as main subjects under University of Kerala; Studied at St. Michael's College Cherthala, Kerala
@@ -48,7 +48,7 @@ Sept 1986-March 1987: Post-Doctoral Position with Prof.G.Kaindl, Fachbereich Phy
 June 1987-Dec. 1988: Worked as Project Scientist, at Advanced Center for Research in Electronics, Indian Institute of Technology, Powai.
 Dec. 1988-Aug.1990: Worked as lecturer in Department of Physics at Indian Institute of Technology, Madras.
 Aug. 1993-Jan 1995: Worked as Research associate at Indira Gandhi Center for Atomic Research, Kalpakkam
-Professional summary: No successful career.
+
 Non-professional activities
 Jan. 1995- Dec.1999: Observing and analyzing the effects of media communications on individuals and vice versa.
 Jan. 2000- : Self Analysis, Philosophy, Internet learning
@@ -100,7 +100,7 @@ Previously used mobile devices: Xiaomi Redmi 5, Nokia 3114c, Reliance, Nokia 114
 ©2000-<a href="http://kolumnin.github.io/Author.htm">Dr.K.Muraleedharan</a> All rights reserved.</div>
 
 </footer>
-Last modified: 19 December  2022 06:46 IST@Koluthalppallil House
+Last modified: 19 December  2022 07:10 IST@Koluthalppallil House
 </div>
 <div class="w3-col-3 w3-pale-green w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
