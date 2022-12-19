@@ -97,12 +97,11 @@ Previously used mobile devices: Xiaomi Redmi 5, Nokia 3114c, Reliance, Nokia 114
 </section>
 <div class="w3-rest">
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
-©2000-<a href="http://kolumnin.github.io/Author.htm">Dr.K.Muraleedharan</a> All rights reserved.</div>
-
+©2000-<a href="http://kolumnin.github.io/Author.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified: 19 December  2022 07:10 IST@Koluthalppallil House
+Last modified: 19 December  2022 07:16 IST@Koluthalppallil House
 </div>
-<div class="w3-col-3 w3-pale-green w3-center">
+<div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
 </div>
 </body>
