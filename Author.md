@@ -1,9 +1,9 @@
 ---
 # Edit theme's home layout
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: config.yml
 author_profile: true 
-device: mobile
+device: mobiles
 ---
 <!DOCTYPE HTML>
 <head>
@@ -38,7 +38,7 @@ Country of Residence: India
 Country of Birth: India
 Nationality: Indian
 Citizenship: Indian
-Website:[kolumnin](https://github.com/kolumnin)
+Website:https://github.com/kolumnin
 Name: Muraleedharan
 Date of Birth: 17th March 1959
 
