@@ -191,4 +191,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 -->
 
-Last update: 2022-12-17-17:06
+
+<div class="w3-pale-blue" Id="Author">
+<div style="font-family:arial,sans-serif;font-size:10px;background-color:'';text-align:left">
+</a>
+</div>
+</div>
+<script async src="//www.instagram.com/embed.js"></script>
+<iframe src="https://drive.google.com/file/d/10IqQyKsFC880esBnGY7QOuDCSsp30JyN/preview" width="440" height="180" allow="autoplay"></iframe>
+<div class="w3-panel w3-border-1 w3-pale-red">
+<!--img class="w3-image" src="/IMG_20200128_082913.jpg" height='600px' width='400px'--></a>
+<br>.</div>
+<div class="w3-panel w3-border-3 w3-pale-green">
+</div>
+Last update: 2022-12-24-14:40
