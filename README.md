@@ -15,3 +15,6 @@ The display is the intellectual and logistic automation scripts by the GitHub co
 
 The world wide web must be safe forever the beginners, intelligent learners and also for slow-paced and with only basic curiosity to know about the technological advancements.  Sorry, in my web sites, most of my activities in the internet are stacked together to form a quick learning domain
 for myself and for all others associated with my actions.
+
+😎[Recent Blog Posts](https://kolumnin.hashnode.dev/)
+
