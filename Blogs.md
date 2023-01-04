@@ -1,6 +1,4 @@
-<div>
-The duplicate links are the results of interference from automated or human interference
-from unknown remote terminals, while signingup from my mobile device. 
+<DIV>
 <BR>
 <div>
 <a href='https://kolumnin.blogspot.com'>KOLUMNIN [blogspot]</a>
@@ -12,4 +10,4 @@ from unknown remote terminals, while signingup from my mobile device.
 <a href='https://kolumnin.wordpress.com'>KoluMnIN [Wordpress]</a>
 <BR>
 <a href='https://sites.google.com/site/defenceunited/event-calendar'>defenceunited[google site]</a>
-</div>
+</DIV>
