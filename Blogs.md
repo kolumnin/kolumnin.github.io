@@ -9,7 +9,7 @@
 <BR>
 <a href='https://kolumnin.wordpress.com'>KoluMnIN [Wordpress]</a>
 <BR>
-[kolumnin.com](https://sites.google.com/view/www-kolumnin-com/home)
+<a href="https://sites.google.com/view/www-kolumnin-com/home">kolumnin.com[google site]
 <BR>
 <a href='[https://sites.google.com/site/defenceunited/event-calendar](https://sites.google.com/view/www-kolumnin-com/home)'>defenceunited[google site]</a>
 </DIV>
