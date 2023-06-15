@@ -11,5 +11,5 @@
 <BR>
 <a href="https://sites.google.com/view/www-kolumnin-com/home">kolumnin.com[google site]
 <BR>
-<a href='[https://sites.google.com/site/defenceunited/event-calendar](https://sites.google.com/view/www-kolumnin-com/home)'>defenceunited[google site]</a>
+<a href='https://sites.google.com/site/defenceunited/event-calendar'>defenceunited[google site]</a>
 </DIV>
