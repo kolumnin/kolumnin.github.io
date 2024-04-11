@@ -5,14 +5,8 @@
 <meta name="website" content="https://kolumnin.github.io">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="/global.css" type="text/css">
-<script src="https://www.w3schools.com/lib/w3.js"></script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
-<body class="w3-container w3-color-black w3-white w3-left">
-<div class="w3-col-3 l12 m8 s6 w3-left">
-<section class="main-content">
-<h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Edu</h3>
 <h3>
 <a id="kolumnin-pages" class="anchor" href="#kolumnin-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
 <p><code><a href="https://kolumnin.github.io/pages">Home</a></code></p>
