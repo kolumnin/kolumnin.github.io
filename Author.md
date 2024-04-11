@@ -1,13 +1,5 @@
----
-# Edit theme's home layout
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: config.yml
-author_profile: true 
-device: mobiles
----
 <!DOCTYPE HTML>
 <head>
-
 <meta http-equiv="refresh"
         content="3; url = https://kolumnin.github.io/Author.md">  
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
