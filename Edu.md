@@ -10,21 +10,8 @@
 </head>
 <body class="w3-container w3-color-black w3-white w3-left">
 <div class="w3-col-3 l12 m8 s6 w3-left">
-<section class="page-header">
-<header Id="Logo" class="logo">
-<div class="w3-logo-image">
-<H1><a class="anchor" href="https://kolumnin.github.io/Author.html">
-<img src='/LOGO.jpg' class="w3-center w3-btn" width="" height=""></a></H1>
-</div>
-<div class="w3-logo-text">
-<a class="w3-logo w3-red w3-btn w3-left" href="/index.html">Home</a><a class="w3-logo w3-green w3-btn w3-left" href="/Author.html">Contact</a><a class="w3-logo w3-blue w3-btn w3-left" href="https://kolumnin.github.io/KOLUMNIN.com/">About</a>
-</div>
-</header>
-</section>
-    <section class="page-header">
-    </section>
-    <section class="main-content">
-      <h3>
+<section class="main-content">
+<h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Edu</h3>
 <h3>
 <a id="kolumnin-pages" class="anchor" href="#kolumnin-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
