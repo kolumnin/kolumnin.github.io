@@ -7,13 +7,6 @@
 <link rel="stylesheet" href="/global.css" type="text/css">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
-<h3>
-<a id="kolumnin-pages" class="anchor" href="#kolumnin-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
-<p><code><a href="https://kolumnin.github.io/pages">Home</a></code></p>
-<h3>
-
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributors:</h3>
-<p><code><!--&lt;a&gt;--></code>
 kolumnin(<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/kolumnin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kolumnin">@kolumnin</a>)</p>
 </section>
 <section>
@@ -110,7 +103,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="http://kolumnin.github.io/Author.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2024-04-11-10:37 IST At Koluthalppallil House, Thuravoor, India
+Last modified:  2024-04-11-10:56 IST At Koluthalppallil House, Thuravoor, India
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
