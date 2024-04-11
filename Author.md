@@ -87,11 +87,9 @@ Contact Address:
 Dr.K.Muraleedharan
 email: mk2634@gmail.com
 Postal: 9/346, Koluthappallil House, Valamangalam South, Thuravoor, Kerala, India-688532
-Current bankers: Federal Bank, Bank of Indian, South Indian Bank
-Current mobile and isp: Xiaomi Redmi 9A and BSNL
-
-Current payment gateways: PhonePe, Googlepay, Paytm, PayPal
-Previously used mobile devices: Xiaomi Redmi 5, Nokia 3114c, Reliance, Nokia 114
+Current bankers: Federal Bank, South Indian Bank
+Current mobile: Xiaomi Redmi 9A
+Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Nokia 114
 </section>
 <section>
 <div class="w3-container w3-pale-blue" Id="Author">
@@ -105,7 +103,7 @@ Previously used mobile devices: Xiaomi Redmi 5, Nokia 3114c, Reliance, Nokia 114
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="http://kolumnin.github.io/Author.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified: 19 December  2022 07:35 IST@Koluthalppallil House
+Last modified:  2024-04-11-08:08 IST At Koluthalppallil House, Thuravoor, India
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
