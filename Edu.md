@@ -1,6 +1,4 @@
-<!DOCTYPE HTML>
-<head>
-<title>Edu_html</title>  
+<!--title>Edu_html</title-->  
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="Author" content="Dr. Muraleedharan Koluthappallil">
@@ -27,7 +25,7 @@
     </section>
     <section class="main-content">
       <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to kolumnin.github Pages</h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Edu</h3>
 <h3>
 <a id="kolumnin-pages" class="anchor" href="#kolumnin-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
 <p><code><a href="https://kolumnin.github.io/pages">Home</a></code></p>
