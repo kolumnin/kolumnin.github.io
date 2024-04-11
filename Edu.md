@@ -1,5 +1,4 @@
-<!--title>Edu_html</title-->  
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="Author" content="Dr. Muraleedharan Koluthappallil">
 <meta name="website" content="https://kolumnin.github.io">
@@ -7,12 +6,9 @@
 <link rel="stylesheet" href="/global.css" type="text/css">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
-kolumnin(<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/kolumnin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kolumnin">@kolumnin</a>)</p>
-</section>
 <section>
 <div class="w3-col-3 w3-center">
-<a href="http://kolumnin.github.io/pages/LOGO.html">
-</a>
+<a href="http://kolumnin.github.io/pages/LOGO.html"></a>
 </div>
 </head>
 <body class="w3-container w3-color-black w3-white w3-left">
@@ -30,23 +26,32 @@ kolumnin(<a class="user-mention" data-hovercard-type="user" data-hovercard-url="
 </section><BR><BR><BR><BR>
 <section>
 <p>
-Personal Records
+Author Profile:
+  
 Title: (Mr.) Dr.
 Country of Residence: India
 Country of Birth: India
 Nationality: Indian
 Citizenship: Indian
+
 Website:https://github.com/kolumnin
+
 Name: Muraleedharan
+
 Date of Birth: 17th March 1959
 
 Academic and Professional Records 
 
 June 1971- March 1974: Secondary School Leaving Certificate (SSLC). S.C.U. High School, Pattanacaud, Kerala.
+
 June 1974-March 1976: Pre-Degree with Physics, Chemistry and Mathematics as main subjects under University of Kerala; Studied at St. Michael's College Cherthala, Kerala
+
 May 1976-March 1979: B.Sc with Physics as Main Subject, under University of Kerala; studied at Sacred Heart College Thevara, Cochin, Kerala
+
 May 1979-April 1981: M.Sc. Physics Main from Indian Institute of Technology, Kanpur, M.Sc. Thesis on 'An Analysis of vibrational spectra of Tutton Salts and the molecular systems MX, M2, X2 and MH (M=H, Li, Na, K, Rb & Cs; X=F, Cl, Br & I) Guided by Pro. H.D.Bist
+
 June 1981-July 1981: Worked as Junior Research Fellow under Department of Science and Technology Project in Department of Physics, IIT Kanpur
+
 July 1981-Aug 1986: Research Scholar at Tata Institute of Fundamental Research ,Mumbai. Received Ph.D. degree from the Bombay University for the research work on "Studies on Spin Glass Ordering in some Insulating Spinels" guided by Prof. R.Vijayaraghavan & J.K.Srivastava at Solid State Physics Group
 Sept 1986-March 1987: Post-Doctoral Position with Prof.G.Kaindl, Fachbereich Physik, Freie Universitat, Berlin. Research work on Spin reorientation studies on Nd2Fe14B using Nd Mossbauer Spectroscopy, preparation and studies of High Tc ceramic superconductors
 June 1987-Dec. 1988: Worked as Project Scientist, at Advanced Center for Research in Electronics, Indian Institute of Technology, Powai.
