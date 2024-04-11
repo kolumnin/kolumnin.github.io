@@ -1,0 +1,7 @@
+---
+# Edit theme's home layout
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: config.yml
+author_profile: true 
+device: mobiles
+---
