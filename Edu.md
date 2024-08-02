@@ -1,6 +1,7 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="Author" content="Dr. Muraleedharan Koluthappallil">
+<meta name="Author" content="https://github.com/kolumnin/kolumnin.github.io/edit/master/Edu.md">
 <meta name="website" content="https://kolumnin.github.io">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="/global.css" type="text/css">
@@ -36,7 +37,7 @@ Citizenship: Indian
 
 Website:https://github.com/kolumnin
 
-Name: Muraleedharan
+Name: Muraleedharan Koluthappallil 
 
 Date of Birth: 17th March 1959
 
@@ -93,6 +94,8 @@ Observing  and trying to note down how memory lapses, ignorance, negligence and 
 2019-11-04: 
 Registered the domain name kolumnin.com at GoDaddy.com; developing parked domain www.kolumnin.com , courtesy GoDaddy, Cloudflare 
 
+2020- Learning to use GitHub.
+
 Profiles in electronic Social media networks: 
 facebook 
 Instagram 
@@ -143,7 +146,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/blob/master/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2024-08-01-12:58 IST At my residence.
+Last modified:  2024-08-02-14:31 IST
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
