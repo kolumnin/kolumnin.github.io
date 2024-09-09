@@ -18,3 +18,4 @@ for myself and for all others associated with my actions.
 
 😎[Recent Blog Posts](https://kolumnin.hashnode.dev/)
 [fb_page](https://www.facebook.com/kolumnin?mibextid=ZbWKwL)
+[Tlgrm](https://github.com/kolumnin/kolumnin.github.io/tree/master/Apps/Telegram%20)
