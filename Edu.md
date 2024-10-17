@@ -17,7 +17,7 @@
 <section class="page-header">
 <header Id="Logo" class="logo">
 <div class="w3-logo-image">
-<H1><a src="https://www.w3schools.com/lib/w3.js"></a><a class="anchor" href="https://kolumnin.github.io/Author.md">
+<H1><a src="https://www.w3schools.com/lib/w3.js"></a><a class="anchor" href="https://kolumnin.github.io/Edu.md">
 <img src='/LOGO.jpg' class="w3-center w3-btn" width="" height=""></a></H1>
 </div>
 <div class="w3-logo-text">
@@ -124,6 +124,8 @@ Dr.K.Muraleedharan
 
 email: mk2634@gmail.com 
 
+Mobile: +919387177255/+918289857255
+
 Postal: 9/346, Koluthappallil House, Valamangalam South, Thuravoor, Kerala, India-688532
 
 Current mobile: Xiaomi Redmi 9A
@@ -135,7 +137,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <section>
 <div class="w3-container w3-pale-blue" Id="Author">
 <div style="text-align:left">
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOTM3NTIxMC9wb2RjYXN0L3Jzcw==">podcasts</a>
+<!--a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOTM3NTIxMC9wb2RjYXN0L3Jzcw==">podcasts</a-->
 </div>
 <div>
 <IMG class="w3-image-card-4" SRC="/IMG_1560999410963.jpg" height="100px" width="100px" alt="Author">
@@ -144,9 +146,9 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 </section>
 <div class="w3-rest">
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
-©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/blob/master/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
+©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2024-08-02-14:31 IST
+Last modified:  2024-10-16-10:32 IST
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
