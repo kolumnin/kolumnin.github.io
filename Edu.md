@@ -17,7 +17,7 @@
 <section class="page-header">
 <header Id="Logo" class="logo">
 <div class="w3-logo-image">
-<H1><a src="https://www.w3schools.com/lib/w3.js"></a><a class="anchor" href="https://kolumnin.github.io/Edu.md">
+<H1><a src="https://www.w3schools.com/lib/w3.js"></a><a class="anchor" href="https://github.com/kolumnin/kolumnin.github.io/blob/master/Edu.md">
 <img src='/LOGO.jpg' class="w3-center w3-btn" width="" height=""></a></H1>
 </div>
 <div class="w3-logo-text">
