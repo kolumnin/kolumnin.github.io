@@ -1,7 +1,7 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="Author" content="Dr. Muraleedharan Koluthappallil">
-<meta name="Author" content="https://github.com/kolumnin/kolumnin.github.io/edit/master/Edu.md">
+<meta name="Author" content="https://kolumnin.github.io/Edu.md">
 <meta name="website" content="https://kolumnin.github.io">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="/global.css" type="text/css">
@@ -30,9 +30,13 @@
 Author Profile:
   
 Title: (Mr.) Dr.
+
 Country of Residence: India
+
 Country of Birth: India
+
 Nationality: Indian
+
 Citizenship: Indian
 
 Website:https://github.com/kolumnin
@@ -148,7 +152,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2024-10-16-10:32 IST
+Last modified:  2024-10-16-10:35 IST
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
