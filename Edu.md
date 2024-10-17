@@ -35,6 +35,12 @@ Country of Residence: India
 
 Country of Birth: India
 
+Father: Eswaran Kesavan Nair
+
+Mother: Narayani Karthyayani Kamalakshi Amma 
+
+Wife: Minichand
+
 Nationality: Indian
 
 Citizenship: Indian
@@ -152,7 +158,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2024-10-16-10:35 IST
+Last modified:  2024-10-16-11:00 IST
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
