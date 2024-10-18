@@ -142,6 +142,7 @@ Current mobile: Xiaomi Redmi 9A
 
 Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Nokia 114
 
+<a href="https://github.com/sponsors/kolumnin" >Sponsor</a>
 </p>
 </section>
 <section>
@@ -158,7 +159,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2024-10-16-11:00 IST
+Last modified:  2024-10-18-11:17 IST
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
