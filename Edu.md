@@ -118,7 +118,7 @@ Yahoo
 GitHub: kolumnin.github.io kolumnin lokumnin klmnniou
 Linkedin
 comminit 
-Developing and managing GitHub  and Google sites.
+Currently developing and managing <a href="https://kolumnin.github.io">kolumnin</a>
 
 Countries/Places visited:
 Berlin
@@ -159,7 +159,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2024-10-18-11:17 IST
+Last modified:  2024-10-21-14:49 IST
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
