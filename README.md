@@ -20,5 +20,3 @@ for myself and for all others associated with my actions.
 [fb_page](https://www.facebook.com/kolumnin?mibextid=ZbWKwL)
 [Tlgrm](https://kolumnin.github.io/Tlgrm.htm)
 [M](https://kolumnin.github.io/Mark.html) 
-[M](https://kolumnin.github.io/Mark.html)
-[m](https://kolumnin.github.io/Mark.html) 
