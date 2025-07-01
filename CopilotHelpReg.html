@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kolumnin Visitor Page</title>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+  <style>
+    #user-panel { margin-top: 1em; }
+    #login-form, #register-form { display: none; }
+    #logout-btn { display: none; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Kolumnin!</h1>
+  <div>
+    <strong>Visitors #: <span id="visitor-count">...</span></strong>
+  </div>
+
+  <div id="user-panel">
+    <div id="auth-status"></div>
+    <button id="show-login">Login</button>
+    <button id="show-register">Register</button>
+    <button id="logout-btn">Logout</button>
+
+    <form id="login-form">
+      <input type="email" id="login-email" placeholder="Email" required />
+      <input type="password" id="login-password" placeholder="Password" required />
+      <button type="submit">Login</button>
+    </form>
+
+    <form id="register-form">
+      <input type="email" id="register-email" placeholder="Email" required />
+      <input type="password" id="register-password" placeholder="Password" required />
+      <button type="submit">Register</button>
+    </form>
+  </div>
+
+  <script>
+    // TODO: Replace below with your own Firebase config
+    const firebaseConfig = {
+      apiKey: "YOUR_API_KEY",
+      authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+      projectId: "YOUR_PROJECT_ID",
+      storageBucket: "YOUR_PROJECT_ID.appspot.com",
+      messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+      appId: "YOUR_APP_ID"
+    };
+    firebase.initializeApp(firebaseConfig);
+
+    const db = firebase.firestore();
+    const auth = firebase.auth();
+
+    // Visitor Counter
+    const visitorCountElem = document.getElementById('visitor-count');
+    const VISITOR_DOC = 'visitors/main';
+
+    async function incrementVisitorCount() {
+      const ref = db.doc(VISITOR_DOC);
+      await db.runTransaction(async (transaction) => {
+        const doc = await transaction.get(ref);
+        let count = 1;
+        if (doc.exists) {
+          count = (doc.data().count || 0) + 1;
+        }
+        transaction.set(ref, { count });
+      });
+    }
+    function listenVisitorCount() {
+      db.doc(VISITOR_DOC).onSnapshot((doc) => {
+        visitorCountElem.textContent = doc.exists ? doc.data().count : 1;
+      });
+    }
+    incrementVisitorCount();
+    listenVisitorCount();
+
+    // Auth UI
+    const showLoginBtn = document.getElementById('show-login');
+    const showRegisterBtn = document.getElementById('show-register');
+    const logoutBtn = document.getElementById('logout-btn');
+    const loginForm = document.getElementById('login-form');
+    const registerForm = document.getElementById('register-form');
+    const authStatus = document.getElementById('auth-status');
+
+    showLoginBtn.onclick = () => {
+      loginForm.style.display = 'block';
+      registerForm.style.display = 'none';
+    };
+    showRegisterBtn.onclick = () => {
+      registerForm.style.display = 'block';
+      loginForm.style.display = 'none';
+    };
+    logoutBtn.onclick = () => auth.signOut();
+
+    loginForm.onsubmit = async (e) => {
+      e.preventDefault();
+      const email = document.getElementById('login-email').value;
+      const password = document.getElementById('login-password').value;
+      try {
+        await auth.signInWithEmailAndPassword(email, password);
+        loginForm.reset();
+        loginForm.style.display = 'none';
+      } catch (err) {
+        alert(err.message);
+      }
+    };
+    registerForm.onsubmit = async (e) => {
+      e.preventDefault();
+      const email = document.getElementById('register-email').value;
+      const password = document.getElementById('register-password').value;
+      try {
+        await auth.createUserWithEmailAndPassword(email, password);
+        registerForm.reset();
+        registerForm.style.display = 'none';
+      } catch (err) {
+        alert(err.message);
+      }
+    };
+
+    auth.onAuthStateChanged((user) => {
+      if (user) {
+        authStatus.textContent = `Logged in as ${user.email}`;
+        logoutBtn.style.display = 'inline-block';
+        showLoginBtn.style.display = 'none';
+        showRegisterBtn.style.display = 'none';
+      } else {
+        authStatus.textContent = 'Not logged in';
+        logoutBtn.style.display = 'none';
+        showLoginBtn.style.display = 'inline-block';
+        showRegisterBtn.style.display = 'inline-block';
+      }
+    });
+  </script>
+</body>
+</html>
