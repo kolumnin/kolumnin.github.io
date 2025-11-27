@@ -12,6 +12,13 @@
 <meta name="google-site-verification" content="TISohxmBj_X8aVnQ5CXkrx3QdZCH93uafQK30DR3v2o" />
 <meta name="google-site-verification" content="q8YeGeh4km9uW15LTy2ESubN7vCBOMoKZfZTmRQZHis" />
 <script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+paypal.Buttons({
+  // payment options...
+  onApprove: function(data, actions) {
+    window.location.href = "https://kolumnin.github.io/subscribe.html";
+  }
+}).render('#paypal-button-container');</script>
 <style>
 .DIV{
 }
@@ -49,11 +56,17 @@
   paypal.HostedButtons({
     hostedButtonId: "4USK56QQKCE6Q",
   }).render("#paypal-container-4USK56QQKCE6Q")
+paypal.Buttons({
+  // payment options...
+  onApprove: function(data, actions) {
+    window.location.href = "https://kolumnin.github.io/subscribe.html";
+  }
+}).render('#paypal-button-container');
 </script>
 <DIV class="w3-col-3 w3-pale-green w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a><BR>
 <DIV>©2025-<a href="http://KoluMnIN.github.io/Author.html">Dr.K.Muraleedharan</a> All rights reserved.</DIV>
-<div>Last updated: 2025-09-19-12:01</div>
+<div>Last updated: 2025-11-26-11:20</div>
 <a class="w3-logo w3-blue w3-btn w3-center" target="_blank" href="https://github.com/" onclick="this.href='https://github.com/">GitHub.com</a>
 </DIV>
 </footer>
