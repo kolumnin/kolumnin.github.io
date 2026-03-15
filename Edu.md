@@ -146,7 +146,8 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 </p>
 </section>
 <section>
-List of Publications:
+  
+List of [Publications:](https://kolumnin.github.io/Publ.html)
 <li>1. Insulating Spin Glasses, K.Muraleedharan, Physics Teacher (India) [25],97 (1983)<BR>
 2. On the anomalous Mossbauer line shapes in spinel ferrites, J.K.Srivastava, K.Muraleedharan and R.Vijayaraghavan, Phys.Lett. [104A], 482, (1984)<BR>
 3. Structural, magnetic and transport properties of the spinel GaxFe1-xNiCrO4, J.A.Kulkarni, K.Muraleedharan, J.K.Srivastava, V.R.Marathe, V.S.Darshane, C.R.K.Murthy and R.Vijayaraghavan, J.Phys. C[18], 2596, (1985)<BR>
@@ -171,7 +172,7 @@ List of Publications:
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 ©2000-<a href="https://github.com/kolumnin/kolumnin.github.io/Edu.md">Dr.K.Muraleedharan</a> All rights reserved.</div>
 </footer>
-Last modified:  2026-03-09-07:46 IST
+Last modified:  2026-03-15-08:36 IST
 </div>
 <div class="w3-col-3 w3-pale-blue w3-center">
 <a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
