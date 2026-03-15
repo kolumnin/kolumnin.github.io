@@ -148,14 +148,7 @@ Previously used devices:Compubel PC, Xiaomi Redmi 5, Nokia 3114c, Reliance, Noki
 <section>
   
 List of [Publications:](https://kolumnin.github.io/Publ.html)
-<li>1. Insulating Spin Glasses, K.Muraleedharan, Physics Teacher (India) [25],97 (1983)<BR>
-2. On the anomalous Mossbauer line shapes in spinel ferrites, J.K.Srivastava, K.Muraleedharan and R.Vijayaraghavan, Phys.Lett. [104A], 482, (1984)<BR>
-3. Structural, magnetic and transport properties of the spinel GaxFe1-xNiCrO4, J.A.Kulkarni, K.Muraleedharan, J.K.Srivastava, V.R.Marathe, V.S.Darshane, C.R.K.Murthy and R.Vijayaraghavan, J.Phys. C[18], 2596, (1985)<BR>
-4. Cluster Spin Glass ordering in tge diluted spinel Zn0.5Co0.5FeCrO4, K.Muraleedharan, J.K.Srivastava and R.Vijayaraghavan, J. Magn. Magn. Mater. [50], 333 (1985)<BR>
-5. On the reentrant magnetic ordering in the insulating diluted spinel Zn0.5Co0.5Fe2O4, K.Muraleedharan, J.K.Srivastava, V.R.Marathe and R.Vijayaraghavan, J.Phys.C[18],5355(1985)<BR>
-6. On the reentrant magnetic order in the insulating spinel Ga0.8Fe0.2NiCrO4 with A sublattice diluted to below the percolation threshold, K.Muraleedharan, J.K.Srivastava, V.R.Marathe, R.Vijayaraghavan, J.A.Kulkarni and V.S.Darshane, Sol. State Commun. [55], 363 (1985)<BR>
-7. On the <BR>
-</li>
+
 <IMG class="w3-image-card-4" SRC="/IMG_15.jpg" height="100%" width="100%" alt="Publications">
 </section>
 <section>
