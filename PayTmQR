@@ -1,0 +1,66 @@
+<DOCUMENT HTML5>
+<head>
+<title>Paytm_QR_code</title>
+<!--meta http-equiv="refresh"
+        content="8; url = https://kolumnin.github.io/Author.html"-->  
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="Author" content="Dr. Muraleedharan Koluthappallil">
+<meta name="website" content="https://kolumnin.github.io">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="/global.css" type="text/css">
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-login="kolumnin" data-size="medium" data-onauth="onTelegramAuth(user)" data-request-access="write"></script>
+<script type="text/javascript">
+  function onTelegramAuth(user) {
+    alert('Logged in as ' + user.first_name + ' ' + user.last_name + ' (' + user.id + (user.username ? ', @' + user.username : '') + ')');
+  }
+</script>
+</head>
+<body class="w3-container w3-color-black w3-white w3-left">
+<div class="w3-col-3 l12 m8 s6 w3-left">
+<section class="page-header">
+<header Id="Logo" class="logo">
+<div class="w3-logo-image">
+<H1><a class="anchor" href="https://kolumnin.github.io/">
+<img src='/LOGO.jpg' class="w3-center w3-btn" width="" height=""></a></H1>
+</div>
+</header>
+<section>
+<div class="w3-col-3 w3-center">
+<a href="http://kolumnin.github.io/pages/LOGO.html"></a>
+</div>
+<section>
+<div class="w3-col-3 w3-center">
+<a href="http://kolumnin.github.io/pages/LOGO.html"></a>
+</div>
+<section>
+<script async src="https://cse.google.com/cse.js?cx=ab4a1a0a75963fa21"></script>
+<div class="gcse-search"></div>
+</section>
+<HR>
+</section>     
+<HR>
+<section>
+<H1><a href="https://kolumnin.github.io/Di">PayTm</a></H1>
+<BR>
+</body>
+</section>
+<section>
+<HR>
+</section>
+<div class="w3-rest">
+<a href="https://www.privacypolicies.com/live/361f84cd-7a80-4fba-b965-84bf08d6265e">Terms</a> <a href="https://www.privacypolicies.com/live/b819f8d5-3d8d-491b-b034-e8b0ff24a448">Privacy</a> <a href="https://www.privacypolicies.com/live/4b2a31a6-0dd3-4ad8-98d5-f580310cfc1f">Disclaimer</a><a href="https://botify.ai/Cookies">Cookies</a>
+<footer Id="Logo" class="w3-col-3 w3-footer w3-left">
+<div>©2023-<a href="http://KoluMnIN.github.io/Author.html">Dr.K.Muraleedharan</a> All rights reserved.</div>
+<hr>
+Last Update: 2024-09-24-09:09@kolumnin
+<div class="w3-col-3 w3-pale-green w3-center"><a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
+<div>Last updated: 2026-08-07-16:30</div>
+</footer>
+</section>
+</body>
+</html>
+<!--[T-group](https://t.me/boost?c=2481506620)
+-->
