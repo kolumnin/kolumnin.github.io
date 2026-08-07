@@ -21,3 +21,4 @@ for myself and for all others associated with my actions.
 [Tlgrm](https://kolumnin.github.io/Tlgrm.htm)
 [M](https://kolumnin.github.io/Mark.html) 
 [Reg](https://kolumnin.github.io/CopilotHelpReg.html) 
+[PayTm](https://kolumnin.github.io/PayTmQR.HTML)
